@@ -1,6 +1,6 @@
 # AI Visual Storyteller 🎭📖
 
-An intelligent storytelling web app that brings stories to life using the power of artificial intelligence.
+An intelligent storytelling website that brings stories to life using the power of artificial intelligence.
 
 This project integrates advanced natural language processing, speech synthesis, and AI image generation to deliver an immersive storytelling experience. Users provide a short input or theme, and the system automatically:
 
