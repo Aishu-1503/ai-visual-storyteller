@@ -24,7 +24,7 @@ This project integrates advanced natural language processing(NLP), speech synthe
 - **Python** (core scripting)
 - **Flask** (backend server)
 - **Cohere API** (text generation)
-- **ElevenLabs API** (text-to-speech)
+- **ElevenLabs API** (text-to-speech conversion)
 - **Stable Diffusion** (AI image generation)
 - **HTML/CSS/JS** (frontend)
 
